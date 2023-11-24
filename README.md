@@ -6,6 +6,8 @@
 | --- | --- |
 | ![JJ's github stats](https://github-readme-stats.vercel.app/api?username=SkyHearts&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![JJ's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyHearts&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
+### 42Malaysia Stats
+[![jyim's 42 stats](https://badge.mediaplus.ma/darkblue/jyim?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 <!--
 **SkyHearts/SkyHearts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
